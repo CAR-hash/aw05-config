@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="cce76cb7-c2b8-4de3-8d58-e78d789c4edc" name="Changes" comment="init">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pos-cart-config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/pos-cart-config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pos-gateway-config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/pos-gateway-config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pos-products-config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/pos-products-config.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
